@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpourastarabadi&layout=compact)](https://github.com/amirpourastarabadi)
 
 - 📫 How to reach me: 
-- [Telegram](https://t.me/Amir_Pourastarabadi) @Amir_Pourastarabadi
+- [Telegram](https://t.me/amirPourastarabadi) @amirPourastarabadi
 - [email :e-mail:](mailto:amirpourastarabadi@gmail.com) amirpourastarabadi@gmail.com
 
 <!--
