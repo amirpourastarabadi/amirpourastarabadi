@@ -6,7 +6,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=amirpourastarabadi alt=amirpourastarabadi /> Since November 2021</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirpourastarabadi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpourastarabadi&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpourastarabadi&layout=compact)](https://github.com/amirpourastarabadi)
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/Amir_Pourastarabadi) @Amir_Pourastarabadi
