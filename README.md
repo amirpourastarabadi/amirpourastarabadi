@@ -12,6 +12,7 @@
 - 📫 How to reach me: 
 - [Telegram](https://t.me/amirPourastarabadi) @amirPourastarabadi
 - [email :e-mail:](mailto:amirpourastarabadi@gmail.com) amirpourastarabadi@gmail.com
+- [Linkedin](https://www.linkedin.com/mwlite/in/amir-pourastarabadi)
 
 <!--
 **amirpourastarabadi/amirpourastarabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
