@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 <br>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/amirPourastarabadi)](https://t.me/amirPourastarabadi)
+[![Gmail Badge](https://img.shields.io/badge/-amirpourastarabadi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amirpourastarabadi@gmail.com)](mailto:amirpourastarabadi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Pourastarabadi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-pourastarabadi/)](https://www.linkedin.com/in/amir-pourastarabadi/) 
 
 ## My Github Stats
 
@@ -9,9 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpourastarabadi&layout=compact)](https://github.com/amirpourastarabadi)
 
-- 📫 How to reach me: 
-- [Telegram](https://t.me/amirPourastarabadi) @amirPourastarabadi
-- [:e-mail:](mailto:amirpourastarabadi@gmail.com) amirpourastarabadi@gmail.com
+
 
 <!--
 **amirpourastarabadi/amirpourastarabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
